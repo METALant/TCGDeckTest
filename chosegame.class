@@ -1,0 +1,9 @@
+package TDT;
+
+public class chosegame{
+  public static void gamechoice() {
+    while (0 = 0) {
+      System.out.println("What game do you want to test? ('P' for Pokemon/'V' for Vanguard)");  
+    }
+  }
+}
